@@ -1,0 +1,6 @@
+C:\Users\jp134125\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\jp134125\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\Hello World\bin\Debug\Hello World.pdb
+C:\Users\jp134125\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\jp134125\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\Hello World\obj\Debug\Hello World.pdb
