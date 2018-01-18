@@ -1,0 +1,9 @@
+C:\Users\jp134125\AppData\Local\Temporary Projects\Chapter 3\bin\Debug\Chapter 3.exe.config
+C:\Users\jp134125\AppData\Local\Temporary Projects\Chapter 3\bin\Debug\Chapter 3.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\Chapter 3\bin\Debug\Chapter 3.pdb
+C:\Users\jp134125\AppData\Local\Temporary Projects\Chapter 3\obj\Debug\Chapter 3.csprojResolveAssemblyReference.cache
+C:\Users\jp134125\AppData\Local\Temporary Projects\Chapter 3\obj\Debug\Chapter_3.HelloVisualWorld.resources
+C:\Users\jp134125\AppData\Local\Temporary Projects\Chapter 3\obj\Debug\Chapter_3.Properties.Resources.resources
+C:\Users\jp134125\AppData\Local\Temporary Projects\Chapter 3\obj\Debug\Chapter 3.csproj.GenerateResource.Cache
+C:\Users\jp134125\AppData\Local\Temporary Projects\Chapter 3\obj\Debug\Chapter 3.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\Chapter 3\obj\Debug\Chapter 3.pdb
