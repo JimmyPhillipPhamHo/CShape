@@ -1,0 +1,6 @@
+C:\Users\jp134125\AppData\Local\Temporary Projects\DemoORAndAND\bin\Debug\DemoORAndAND.exe.config
+C:\Users\jp134125\AppData\Local\Temporary Projects\DemoORAndAND\obj\Debug\DemoORAndAND.csprojResolveAssemblyReference.cache
+C:\Users\jp134125\AppData\Local\Temporary Projects\DemoORAndAND\bin\Debug\DemoORAndAND.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\DemoORAndAND\bin\Debug\DemoORAndAND.pdb
+C:\Users\jp134125\AppData\Local\Temporary Projects\DemoORAndAND\obj\Debug\DemoORAndAND.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\DemoORAndAND\obj\Debug\DemoORAndAND.pdb

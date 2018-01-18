@@ -1,0 +1,6 @@
+C:\Users\jp134125\AppData\Local\Temporary Projects\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe.config
+C:\Users\jp134125\AppData\Local\Temporary Projects\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.pdb
+C:\Users\jp134125\AppData\Local\Temporary Projects\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\jp134125\AppData\Local\Temporary Projects\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\CompareThreeNumbers\obj\Debug\CompareThreeNumbers.pdb
