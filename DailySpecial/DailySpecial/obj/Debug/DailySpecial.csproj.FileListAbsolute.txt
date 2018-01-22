@@ -1,1 +1,10 @@
 C:\Users\jp134125\AppData\Local\Temporary Projects\DailySpecial\bin\Debug\DailySpecial.exe.config
+C:\Users\jp134125\Desktop\CShape\DailySpecial\DailySpecial\bin\Debug\DailySpecial.exe.config
+C:\Users\jp134125\Desktop\CShape\DailySpecial\DailySpecial\bin\Debug\DailySpecial.exe
+C:\Users\jp134125\Desktop\CShape\DailySpecial\DailySpecial\bin\Debug\DailySpecial.pdb
+C:\Users\jp134125\Desktop\CShape\DailySpecial\DailySpecial\obj\Debug\DailySpecial.csprojResolveAssemblyReference.cache
+C:\Users\jp134125\Desktop\CShape\DailySpecial\DailySpecial\obj\Debug\DailySpecial.Form1.resources
+C:\Users\jp134125\Desktop\CShape\DailySpecial\DailySpecial\obj\Debug\DailySpecial.Properties.Resources.resources
+C:\Users\jp134125\Desktop\CShape\DailySpecial\DailySpecial\obj\Debug\DailySpecial.csproj.GenerateResource.Cache
+C:\Users\jp134125\Desktop\CShape\DailySpecial\DailySpecial\obj\Debug\DailySpecial.exe
+C:\Users\jp134125\Desktop\CShape\DailySpecial\DailySpecial\obj\Debug\DailySpecial.pdb
