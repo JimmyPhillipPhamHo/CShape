@@ -1,0 +1,9 @@
+C:\Users\jp134125\AppData\Local\Temporary Projects\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\jp134125\AppData\Local\Temporary Projects\Greetings\bin\Debug\Greetings.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\Greetings\bin\Debug\Greetings.pdb
+C:\Users\jp134125\AppData\Local\Temporary Projects\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache
+C:\Users\jp134125\AppData\Local\Temporary Projects\Greetings\obj\Debug\Greetings.Greetings.resources
+C:\Users\jp134125\AppData\Local\Temporary Projects\Greetings\obj\Debug\Greetings.Properties.Resources.resources
+C:\Users\jp134125\AppData\Local\Temporary Projects\Greetings\obj\Debug\Greetings.csproj.GenerateResource.Cache
+C:\Users\jp134125\AppData\Local\Temporary Projects\Greetings\obj\Debug\Greetings.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\Greetings\obj\Debug\Greetings.pdb

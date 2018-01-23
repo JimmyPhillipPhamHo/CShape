@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DailySpecial
+namespace Greetings
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace DailySpecial
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ChatterboxDinerDailySpecial());
+            Application.Run(new Greetings());
         }
     }
 }
