@@ -67,7 +67,7 @@
             this.lblResult.Cursor = System.Windows.Forms.Cursors.Default;
             this.lblResult.Location = new System.Drawing.Point(28, 152);
             this.lblResult.Name = "lblResult";
-            this.lblResult.Size = new System.Drawing.Size(200, 27);
+            this.lblResult.Size = new System.Drawing.Size(200, 40);
             this.lblResult.TabIndex = 3;
             // 
             // btnReset
