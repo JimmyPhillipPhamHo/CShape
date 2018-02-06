@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.txtTotalDelegate = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtDelegate = new System.Windows.Forms.TextBox();
+            this.txtCandidate1 = new System.Windows.Forms.TextBox();
+            this.txtCandidate2 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -38,26 +38,26 @@
             this.btnResults = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // txtTotalDelegate
+            // txtDelegate
             // 
-            this.txtTotalDelegate.Location = new System.Drawing.Point(49, 120);
-            this.txtTotalDelegate.Name = "txtTotalDelegate";
-            this.txtTotalDelegate.Size = new System.Drawing.Size(100, 20);
-            this.txtTotalDelegate.TabIndex = 0;
+            this.txtDelegate.Location = new System.Drawing.Point(49, 120);
+            this.txtDelegate.Name = "txtDelegate";
+            this.txtDelegate.Size = new System.Drawing.Size(100, 20);
+            this.txtDelegate.TabIndex = 0;
             // 
-            // textBox2
+            // txtCandidate1
             // 
-            this.textBox2.Location = new System.Drawing.Point(168, 120);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 1;
+            this.txtCandidate1.Location = new System.Drawing.Point(168, 120);
+            this.txtCandidate1.Name = "txtCandidate1";
+            this.txtCandidate1.Size = new System.Drawing.Size(100, 20);
+            this.txtCandidate1.TabIndex = 1;
             // 
-            // textBox3
+            // txtCandidate2
             // 
-            this.textBox3.Location = new System.Drawing.Point(285, 120);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 2;
+            this.txtCandidate2.Location = new System.Drawing.Point(285, 120);
+            this.txtCandidate2.Name = "txtCandidate2";
+            this.txtCandidate2.Size = new System.Drawing.Size(100, 20);
+            this.txtCandidate2.TabIndex = 2;
             // 
             // label1
             // 
@@ -116,9 +116,9 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.txtTotalDelegate);
+            this.Controls.Add(this.txtCandidate2);
+            this.Controls.Add(this.txtCandidate1);
+            this.Controls.Add(this.txtDelegate);
             this.Name = "PoliticalFever";
             this.Text = "Political Fever";
             this.ResumeLayout(false);
@@ -128,9 +128,9 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox txtTotalDelegate;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtDelegate;
+        private System.Windows.Forms.TextBox txtCandidate1;
+        private System.Windows.Forms.TextBox txtCandidate2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;

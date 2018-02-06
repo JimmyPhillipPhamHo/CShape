@@ -1,1 +1,2 @@
 C:\Users\jp134125\AppData\Local\Temporary Projects\PoliticalFever\bin\Debug\PoliticalFever.exe.config
+C:\Users\jp134125\Desktop\CShape\PoliticalFever\PoliticalFever\bin\Debug\PoliticalFever.exe.config
