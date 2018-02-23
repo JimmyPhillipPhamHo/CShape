@@ -1,0 +1,2 @@
+C:\Users\jp134125\AppData\Local\Temporary Projects\Debugger3\bin\Debug\Debugger3.exe.config
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger3\Debugger3\bin\Debug\Debugger3.exe.config

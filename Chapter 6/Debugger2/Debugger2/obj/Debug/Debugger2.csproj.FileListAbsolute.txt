@@ -1,0 +1,12 @@
+C:\Users\jp134125\AppData\Local\Temporary Projects\Debugger2\bin\Debug\Debugger2.exe.config
+C:\Users\jp134125\AppData\Local\Temporary Projects\Debugger2\obj\Debug\Debugger2.csprojResolveAssemblyReference.cache
+C:\Users\jp134125\AppData\Local\Temporary Projects\Debugger2\bin\Debug\Debugger2.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\Debugger2\bin\Debug\Debugger2.pdb
+C:\Users\jp134125\AppData\Local\Temporary Projects\Debugger2\obj\Debug\Debugger2.exe
+C:\Users\jp134125\AppData\Local\Temporary Projects\Debugger2\obj\Debug\Debugger2.pdb
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger2\Debugger2\bin\Debug\Debugger2.exe.config
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger2\Debugger2\obj\Debug\Debugger2.exe
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger2\Debugger2\obj\Debug\Debugger2.pdb
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger2\Debugger2\bin\Debug\Debugger2.exe
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger2\Debugger2\bin\Debug\Debugger2.pdb
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger2\Debugger2\obj\Debug\Debugger2.csprojResolveAssemblyReference.cache

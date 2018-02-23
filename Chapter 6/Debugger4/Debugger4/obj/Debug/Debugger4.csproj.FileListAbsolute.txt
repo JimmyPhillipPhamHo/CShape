@@ -1,0 +1,8 @@
+C:\Users\jp134125\AppData\Local\Temporary Projects\Debugger4\bin\Debug\Debugger4.exe.config
+C:\Users\jp134125\AppData\Local\Temporary Projects\Debugger4\obj\Debug\Debugger4.csprojResolveAssemblyReference.cache
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger4\Debugger4\bin\Debug\Debugger4.exe.config
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger4\Debugger4\obj\Debug\Debugger4.csprojResolveAssemblyReference.cache
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger4\Debugger4\bin\Debug\Debugger4.exe
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger4\Debugger4\bin\Debug\Debugger4.pdb
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger4\Debugger4\obj\Debug\Debugger4.exe
+C:\Users\jp134125\Desktop\CShapeChaper6\Debugger4\Debugger4\obj\Debug\Debugger4.pdb
